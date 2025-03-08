@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Sowmya Guduguntla
 
-I am a **Results-driven Data Science professional** with 3.8 years of experience in **data analysis, predictive modeling, and risk assessment**. Skilled in **Python, R, SQL, Tableau, Power BI, and Excel**, with a proven track record of transforming complex data into actionable insights. Currently pursuing my **MSc in Data Science at GITAM Vizag**, I am passionate about **leveraging analytics to drive business decisions and create meaningful impact**.
+I am a **Results-driven Data Science professional** with 3.8 years of experience in **data analysis, predictive modeling, and risk assessment**. Skilled in **Python, R, SQL, Tableau, Power BI, and Excel**, with a proven track record of transforming complex data into actionable insights. Currently pursuing my **MSc in Data Science at GITAM Hyderabad**, I am passionate about **leveraging analytics, Machine Learning, Deep Learning, AI, and Generative AI to drive business decisions and create meaningful impact**.
 
 ## 🔹 About Me
 
-- 💻 Skilled in **Python, R, SQL, Microsoft Excel**
-- 📊 Experienced in **Power BI, Tableau, Data Visualization**
-- 🤖 Passionate about **Machine Learning, Deep Learning, AI**
+- 💻 Skilled in **Python, R, SQL**
+- 📊 Experienced in **Power BI, Tableau, Microsoft Excela and Data Visualization**
+- 🤖 Passionate about **Machine Learning, Deep Learning, AI and Generative AI**
 - 🏆 Awarded **2 Spot Awards & 1 Applause Award** at Deloitte for excellence in risk assessment
 
 ---
