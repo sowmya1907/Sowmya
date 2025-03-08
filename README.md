@@ -135,7 +135,7 @@ Contributions are welcome! Follow these steps:
 ## 📬 Let's Connect!
 
 📧 Email: [sowmya190700@gmail.com](mailto:sowmya190700@gmail.com)  
-🔗 LinkedIn: [Sowmya LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sowmya-guduguntla-977790191/)  
+🔗 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sowmya-guduguntla-977790191/)  
 📂 Portfolio: [soogudportfolio.netlify.app](https://soogudportfolio.netlify.app)  
 
 
